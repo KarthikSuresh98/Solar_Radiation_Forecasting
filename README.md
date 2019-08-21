@@ -6,7 +6,7 @@ This project is aimed at forecasting and predicting the solar radiation data.
     In this task , recurrent neural networks were used and trained on 10 years historical UV radiation data. The goal of this 
     network is to accuractely predict the uv radiation data for the next day given today's data. 
 
-    Programs - uv_radiation_forecasting.py and uv_radiation_forecasting2.py correspond to the forecasting task.
+    - uv_radiation_forecasting.py and uv_radiation_forecasting2.py correspond to the forecasting task.
 
 2. Predicting solar radiation data from climate / weather parameters:
    In this task , the data is initially pre processed wherein any parameter that has very low or very high correlation is removed.
