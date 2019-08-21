@@ -2,7 +2,7 @@
 
 This project is aimed at forecasting and predicting the solar radiation data.
 
-1 . Forecasting:
+  1 . Forecasting:
     In this task , recurrent neural networks were used and trained on 10 years historical UV radiation data. The goal of this 
     network is to accuractely predict the uv radiation data for the next day given today's data. 
 
