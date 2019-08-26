@@ -10,8 +10,8 @@ This project is aimed at forecasting and predicting the solar radiation data.
 
 2. Predicting solar radiation data from climate / weather parameters:
    In this task , the data is initially pre processed wherein any parameter that has very low or very high correlation is removed.
-   The parameter with very high correlation is removed since in almost all cases these parameters tend to derivatives of the 
-   target output varibale i.e solar radiation.
+   The parameter with very high correlation is removed since in almost all cases these parameters tend to be derivatives of the 
+   target output variable i.e solar radiation.
    
    Random Forest Classifier is then used to predict the solar radiation from this processed data. The results were quite
    good wherein the model is learning the dependance of solar radiation with these climate parameters such as temperature , 
